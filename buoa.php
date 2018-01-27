@@ -8,5 +8,5 @@ class YellowThemeBuoa
 	const VERSION = "0.7.2";	
 }
 
-$yellow->themes->register("buoa", "YellowThemeBerlin", YellowThemeBuoa::VERSION);
+$yellow->themes->register("buoa", "YellowThemeBuoa", YellowThemeBuoa::VERSION);
 ?>
