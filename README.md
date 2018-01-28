@@ -8,7 +8,7 @@ Buoa is the theme from the german site http://buoa.de by Norbert Simon (see ther
 ## How do I install this?
 
 1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
-2. [Download theme](https://github.com/BsNoSi/yellow-themeBuoa/blob/master/buoa.zip). If you are using Safari, right click and select 'Download file as'.
+2. [Download theme](https://github.com/BsNoSi/yellow-theme-Buoa/raw/master/buoa.zip). If you are using Safari, right click and select 'Download file as'.
 3. Copy `buoa.zip ` into your `system/themes` folder.
 4. Open `system/config/config.ini` and change `Theme: buoa`.
 
