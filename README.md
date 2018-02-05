@@ -1,5 +1,7 @@
-Buoa theme 0.7.2
-==================
+# Buoa theme 0.7.8
+
+- Updated: 2018-02-05
+- Fixed: Install Errors, added missing files
 
 Buoa is the theme from the german site http://buoa.de by Norbert Simon (see there in action)
 
@@ -8,7 +10,7 @@ Buoa is the theme from the german site http://buoa.de by Norbert Simon (see ther
 ## How do I install this?
 
 1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
-2. [Download theme](https://github.com/BsNoSi/yellow-theme-Buoa/raw/master/buoa.zip). If you are using Safari, right click and select 'Download file as'.
+2. [Download theme](https://github.com/BsNoSi/yellow-themeBuoa/blob/master/buoa.zip). If you are using Safari, right click and select 'Download file as'.
 3. Copy `buoa.zip ` into your `system/themes` folder.
 4. Open `system/config/config.ini` and change `Theme: buoa`.
 
@@ -18,12 +20,27 @@ To uninstall delete the [theme files](update.ini).
 
 - [Wiki plugin](https://github.com/datenstrom/yellow-plugins/tree/master/wiki)
 - [Search plugin](https://github.com/datenstrom/yellow-plugins/tree/master/search)
+- [Feed plugin](https://github.com/datenstrom/yellow-plugins/tree/master/feed)
+
+> Wiki plugin is installed, if during setup "wiki" is choosen.
 
 ## Useful
 
-- [Feed plugin](https://github.com/datenstrom/yellow-plugins/tree/master/feed)
 - [Gallery plugin](https://github.com/datenstrom/yellow-plugins/tree/master/gallery)
 - [imgpop plugin](https://github.com/BsNoSi/yellow-imgpop)
+
+## How to proceed
+
+1. Run Yellow Setup
+2. Install reqired plugins
+3. Install theme
+4. Edit "config.ini" and change theme
+
+~~~
+…
+Theme: buoa
+…
+~~~
 
 ## Information
 

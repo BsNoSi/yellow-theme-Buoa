@@ -5,7 +5,7 @@
 
 class YellowThemeBuoa
 {
-	const VERSION = "0.7.2";	
+	const VERSION = "0.7.8";	
 }
 
 $yellow->themes->register("buoa", "YellowThemeBuoa", YellowThemeBuoa::VERSION);
