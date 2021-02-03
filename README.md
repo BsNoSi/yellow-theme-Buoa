@@ -1,5 +1,7 @@
 # Buoa theme 0.7.8
 
+**Development discontinued.**
+
 - Updated: 2018-02-05
 - Fixed: Install Errors, added missing files
 
